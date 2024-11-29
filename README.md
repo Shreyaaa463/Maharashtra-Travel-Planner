@@ -47,9 +47,13 @@ Output:
 The results are displayed on the Java Swing interface, providing the user with a comprehensive travel plan.
 
 Contributors:
+
 SANIKA SHIDORE-Developer
+
 SHREYA GUJARATHI-Developer
+
 SIDDHI VAIDYA-Developer
+
 SHRUTI THAKUR-Developer
 
 
